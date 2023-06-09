@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 
 const BookBtn = (props) => {
-	const domain = "https://bookmyshow-backend-28y2.onrender.com/";
+	const domain = "https://bookmyshow-backend-e42f.onrender.com/";
 	const {
 		myShow,
 		setMyShow,
