@@ -31,7 +31,7 @@ const BookedData = (props) => {
 											Object.values(data.seats)[i] > 0
 												? {}
 												: {
-														backgroundColor: "rgb(255 255 255 / 15%)",
+														backgroundColor: "#3CC47C",
 														color: "white",
 												  }
 										}>

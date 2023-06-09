@@ -1,5 +1,5 @@
 .home {
-	background-color: rgba(142, 187, 242, 0.739);
+	background-color: #4ABDAC;
 	min-height: 100vh;
 	height: auto;
 	display: flex;
@@ -16,7 +16,7 @@
 	grid-template-rows: minmax(10rem,auto)  minmax(10rem,auto)  minmax(8rem,auto)  minmax(6rem,auto);
 	padding: 1rem;
 	gap: 1rem;
-	background-color: rgb(10, 32, 81);
+	background-color: #1E392A;
 	color: rgb(248, 237, 237);
 }
 
@@ -37,7 +37,7 @@
 }
 .option {
 	padding: 0.5rem;
-	border: 0.1rem solid rgb(0, 162, 255);
+	border: 0.1rem solid #3CC47C;
 	border-radius: 0.5rem;
 	cursor: pointer;
 	transition: all 0.3s;
@@ -90,7 +90,7 @@
 	font-weight: 600;
 	border-radius: 0.5rem;
 	border: none;
-	background-color: rgb(112, 187, 203);
+	background-color: #3CC47C;
 	color: rgb(8, 8, 50);
 	cursor: pointer;
 }
@@ -125,8 +125,8 @@
 
 .bookingDetails .bookingDetails_content {
 	padding: 0.5rem;
-	border: 0.1rem solid rgb(0, 162, 255);
-	background-color: rgb(0, 162, 255);
+	border: 0.1rem solid #3CC47C;
+	background-color: #3CC47C;
 	color: rgb(8, 8, 50);
 	width: fit-content;
 	border-radius: 0.5rem;
@@ -138,7 +138,7 @@
 }
 
 .bookingDetails_seats {
-	color: rgb(8, 8, 50);
+	color: #3CC47C;
 	width: fit-content;
 	border-radius: 0.5rem;
 	cursor: pointer;
@@ -159,7 +159,7 @@
 	justify-content: center;
 	align-items: center;
 	font-size: 1.3rem;
-	color: rgb(0, 162, 255);
+	color: #3CC47C;
 }
 
 .alert {
@@ -167,13 +167,13 @@
 	right: 0;
 	bottom: 0;
 	border-radius: 0.5rem;
-	background-color: rgb(121, 222, 90);
+	background-color: #3CC47C;
 	color: black;
 	margin: 1rem;
 	padding: 0.5rem;
 }
 .alert-success {
-	background-color: rgb(121, 222, 90);
+	background-color:#3CC47C;
 	color: black;
 }
 .alert-error {

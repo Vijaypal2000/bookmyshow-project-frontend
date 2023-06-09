@@ -23,9 +23,9 @@ const SeatSelection = (props) => {
 							style={
 								Object.values(myShow.seats)[i] > 0
 									? {
-											backgroundColor: "rgb(0, 162, 255)",
+											backgroundColor: "#3CC47C",
 											color: "black",
-											borderColor: "rgb(0, 162, 255)",
+											borderColor: "#3CC47C",
 									  }
 									: {}
 							}
